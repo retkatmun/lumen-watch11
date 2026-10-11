@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+*.log
+.lumen-watch-cursor.json
+lumen-watch.config.json
+.env
+.DS_Store

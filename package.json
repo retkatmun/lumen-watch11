@@ -11,13 +11,13 @@
     "alerts",
     "typescript"
   ],
-  "homepage": "https://github.com/yourusername/lumen-watch#readme",
+  "homepage": "https://github.com/retkatmun/lumen-watch11#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/lumen-watch/issues"
+    "url": "https://github.com/retkatmun/lumen-watch11/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/lumen-watch.git"
+    "url": "https://github.com/retkatmun/lumen-watch11.git"
   },
   "license": "MIT",
   "author": "lumen-watch contributors",

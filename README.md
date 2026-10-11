@@ -2,7 +2,7 @@
 
 > Real-time Stellar account watcher — stream payment alerts to your console, webhook, or Discord.
 
-[![CI](https://github.com/yourusername/lumen-watch/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/lumen-watch/actions/workflows/ci.yml)
+[![CI](https://github.com/retkatmun/lumen-watch11/actions/workflows/ci.yml/badge.svg)](https://github.com/retkatmun/lumen-watch11/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/lumen-watch.svg)](https://www.npmjs.com/package/lumen-watch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](https://nodejs.org)
@@ -284,7 +284,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for setup instructions, branch naming, 
 lumen-watch is participating in the **Stellar Wave Program** on [Drips](https://drips.network). Issues labelled `stellar-wave` earn on-chain rewards for contributors.
 
 To claim an issue:
-1. Browse [open issues](https://github.com/yourusername/lumen-watch/issues?q=is%3Aopen+label%3Astellar-wave)
+1. Browse [open issues](https://github.com/retkatmun/lumen-watch11/issues?q=is%3Aopen+label%3Astellar-wave)
 2. Comment "I'd like to work on this" to claim it
 3. Fork, implement, open a PR following [CONTRIBUTING.md](./CONTRIBUTING.md)
 4. Drips rewards are distributed on merge

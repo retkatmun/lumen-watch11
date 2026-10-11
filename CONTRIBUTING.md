@@ -123,7 +123,7 @@ Keep the subject line under 72 characters. Use the body to explain *why*, not *w
 
 ## How to pick and claim an issue
 
-1. Browse [open issues](https://github.com/yourusername/lumen-watch/issues) — look for `good first issue` or `stellar-wave` labels.
+1. Browse [open issues](https://github.com/retkatmun/lumen-watch11/issues) — look for `good first issue` or `stellar-wave` labels.
 2. Check the issue is not already assigned or has an open PR.
 3. **Comment on the issue**: "I'd like to work on this" — a maintainer will assign it to you.
 4. Fork the repo if you haven't already and create a branch.

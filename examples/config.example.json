@@ -1,0 +1,29 @@
+{
+  "network": "testnet",
+  "accounts": [
+    {
+      "address": "GAAZI4TCR3TY5OJHCTJC2A4QSY6CJWJH5IAJTGKIN2ER7LBNVKOCCWNX",
+      "label": "My test account"
+    }
+  ],
+  "filters": {
+    "assets": ["XLM"],
+    "minAmount": "0.1",
+    "direction": "incoming"
+  },
+  "notifiers": [
+    { "type": "console" },
+    {
+      "type": "webhook",
+      "url": "https://example.com/webhook",
+      "headers": {
+        "Authorization": "Bearer YOUR_TOKEN_HERE"
+      }
+    },
+    {
+      "type": "discord",
+      "webhookUrl": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
+    }
+  ],
+  "cursorFile": ".lumen-watch-cursor.json"
+}
